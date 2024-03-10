@@ -1,0 +1,8 @@
+<link rel="stylesheet" href="모든 속성 값 재설정.css">
+<blockquote>
+    <p>This blockquote is styled</p>
+</blockquote>
+
+<blockquote class="fix-this">
+    <p>This blockquote is not styled</p>
+</blockquote>
