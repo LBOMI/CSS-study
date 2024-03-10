@@ -1,0 +1,9 @@
+<link rel="stylesheet" href="우선 순위2.css">
+<div id="outer" class="container">
+    <div id="inner" class="container">
+        <ul>
+            <li class="nav"><a href="#">One</a></li>
+            <li class="nav"><a href="#">Two</a></li>
+        </ul>
+    </div>
+</div>
