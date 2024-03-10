@@ -1,0 +1,3 @@
+<link rel="stylesheet" href="!important.css">
+<p class="better">This is a paragraph.</p>
+<p class="better" id="winning">One selector to rule them all!</p>
