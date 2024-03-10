@@ -1,0 +1,13 @@
+<link rel="stylesheet" href="revert.css">
+
+<section>
+    <h3>따로 지정되지 않은 h3는 연두색</h3>
+    <p>paragraph의 텍스트는 분홍</p>
+    섹션 안의 요소니까 연두색
+</section>
+
+<section class="with-revert">
+    <h3>revert로 따로 지정되어있지 않았던 h3는 검정</h3>
+    <p>특성화되어있는 paragraph는 그대로 분홍</p>
+    섹션 안의 요소가 revert 되면서 검정
+</section>
