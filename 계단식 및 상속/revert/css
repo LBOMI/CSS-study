@@ -1,0 +1,3 @@
+section { color: darkseagreen }
+p { color: lightcoral }
+section.with-revert { color: revert }
