@@ -1,0 +1,4 @@
+<link rel="stylesheet" href="우선 순위.css">
+<h2>Heading with no class</h2>
+<h2 class="small">Heading with class of small</h2>
+<h2 class="bright">Heading with class of bright</h2>
