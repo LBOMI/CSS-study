@@ -1,0 +1,37 @@
+/* 파일: layers1.css */
+
+/* 계층화되지 않은 스타일 */
+body {
+    color: #333;
+}
+
+/* 첫 번째 계층 생성: `layout` */
+@layer layout {
+    main {
+        display: grid;
+    }
+}
+
+/* 두 번째 계층 생성: 이름이 지정되지 않은 익명 계층 */
+@layer {
+    body {
+        margin: 0;
+    }
+}
+
+/* 세 번째 및 네 번째: `theme` 및 `utilities` */
+@layer theme, layout, utilities;
+
+/* 이미 존재하는 `layout` 계층에 스타일 추가 */
+@layer layout {
+    main {
+        color: #000;
+    }
+}
+
+/* 다섯 번째 계층 생성: 이름이 지정되지 않은, 익명 계층 */
+@layer {
+    body {
+        margin: 1vw;
+    }
+}
