@@ -1,0 +1,17 @@
+@layer page {
+    h1 {
+        text-decoration: overline;
+        color: red;
+    }
+}
+
+@layer site {
+    h1 {
+        text-decoration: underline;
+        color: green;
+    }
+}
+
+/* this does nothing */
+@layer site, page;
+/* 바로 위 코드를 맨 위에 배치하면 결과가 달라짐 */
