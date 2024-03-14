@@ -1,0 +1,5 @@
+<link rel="stylesheet" href="여백 축소.css">
+<div class="container">
+    <p class="one">I am paragraph one.</p>
+    <p class="two">I am paragraph two.</p>
+</div>
