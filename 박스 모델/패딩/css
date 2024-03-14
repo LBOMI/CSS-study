@@ -1,0 +1,10 @@
+.box {
+    padding-top: 0;
+    padding-right: 30px;
+    padding-bottom: 40px;
+    padding: 4em;
+}
+
+.container {
+    padding: 20px;
+}
