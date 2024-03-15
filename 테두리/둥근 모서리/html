@@ -1,0 +1,5 @@
+<link rel="stylesheet" href="둥근 모서리.css">
+<div class="box">
+    <h2>Borders</h2>
+    <p>Try changing the borders.</p>
+</div>
