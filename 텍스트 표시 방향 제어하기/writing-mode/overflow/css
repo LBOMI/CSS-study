@@ -1,0 +1,11 @@
+.box {
+    width: 150px;
+}
+
+.horisontal {
+    writing-mode: horizontal-tb;
+}
+
+.vertical {
+    writing-mode: vertical-rl;
+}
