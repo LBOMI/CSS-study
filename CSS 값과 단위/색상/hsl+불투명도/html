@@ -1,0 +1,6 @@
+<link rel="stylesheet" href="hsl+불투명도.css">
+<div class="wrapper">
+    <div class="box one">hsl(188 97% 28% / .3)</div>
+    <div class="box two">hsl(321 47% 57% / .7)</div>
+    <div class="box three">hsl(174 77% 31% / .9)</div>
+</div>
