@@ -1,0 +1,15 @@
+.box {
+    width: 200px;
+}
+
+.minibox {
+    width: 50px;
+}
+
+.width {
+    width: 100%;
+}
+
+.max {
+    max-width: 100%;
+}
