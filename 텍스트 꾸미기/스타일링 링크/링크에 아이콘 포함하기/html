@@ -1,0 +1,7 @@
+<link rel="stylesheet" href=".css">
+<p>
+    For more information on the weather, visit our 
+    <a href="#">weather page</a>,
+    look at <a href="https://en.wikipedia.org/">weather on Widipedia</a>, or check out
+    <a href="https://www.nationalgeographic.org/topics/resource-library-weather/">weather on National Geographic</a>.
+</p>
